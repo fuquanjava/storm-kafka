@@ -4,7 +4,7 @@ The project contains 3 demo: <br/>
 `kafka demo` <br/>
 `storm-kafka-demo` <br/>
 
-##### You can test this very simple example
+##### You can test this very easy.
 
 ` storm-kafka-demo ` main class is `my.storm.kafka.demo.MyKafkaTopology ` <br/>
 ` storm demo` main class is ` word.count.topology.WordCountTopology`
